@@ -1,0 +1,3 @@
+
+# 该文件应该放在classpath目录下，然后启动Elasticsearch的node，会自动加载该文件
+cluster.name: yourclustername
